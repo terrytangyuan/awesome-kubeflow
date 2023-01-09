@@ -4,8 +4,6 @@
 
 🎉 [Kubeflow has applied to come a CNCF incubating project!](https://blog.kubeflow.org/kubeflow-applied-cncf-incubating/) Stay tuned!
 
-🔔 Links to recordings for talks from various conferences, such as ArgoCon and KubeCon, are added as soon as they become available!
-
 A curated list of awesome projects and resources related to [Kubeflow](https://www.kubeflow.org/).
 
 ## What is Kubeflow?
@@ -47,6 +45,8 @@ Other open source projects that use Argo:
 * [Kedro](https://github.com/quantumblacklabs/kedro) is an open-source Python framework for creating reproducible, maintainable and modular data science code.
 * [Seldon](https://github.com/SeldonIO/seldon-core) is an MLOps framework to package, deploy, monitor and manage thousands of production machine learning models.
 * [SQLFlow](https://github.com/sql-machine-learning/sqlflow) extends SQL to support AI and compiles the SQL program to a workflow that runs on Kubernetes.
+* [MLRun](https://github.com/mlrun/mlrun) is an open MLOps platform for quickly building and managing continuous ML applications across their lifecycle.
+* [Polyaxon](https://github.com/polyaxon/polyaxon) is a platform for building, training, and monitoring large scale deep learning applications.
 
 <a name="books" />
 
@@ -116,8 +116,6 @@ Please check out the [official Kubeflow Project blog](https://blog.kubeflow.org/
 <a name="community" />
 
 ## Community
-
-https://www.kubeflow.org/docs/about/community/
 
 * [Community Calendar](https://www.kubeflow.org/docs/about/community/#kubeflow-community-calendars)
 * [Working Groups](https://github.com/kubeflow/community/blob/master/wg-list.md)

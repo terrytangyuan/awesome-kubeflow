@@ -1,10 +1,12 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/terrytangyuan/awesome-kubeflow) [![Twitter Follow](https://img.shields.io/twitter/follow/kubeflow?style=social)](https://twitter.com/kubeflow) [![Twitter Follow](https://img.shields.io/twitter/follow/TerryTangYuan?style=social)](https://twitter.com/TerryTangYuan) [![Twitter Follow](https://img.shields.io/twitter/follow/TerryTangYuan?style=social)](https://twitter.com/TerryTangYuan)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/terrytangyuan/awesome-kubeflow) [![Twitter Follow](https://img.shields.io/twitter/follow/kubeflow?style=social)](https://twitter.com/kubeflow) [![Twitter Follow](https://img.shields.io/twitter/follow/TerryTangYuan?style=social)](https://twitter.com/TerryTangYuan)
 
 # Awesome Kubeflow
 
 🎉 [Kubeflow has applied to come a CNCF incubating project!](https://blog.kubeflow.org/kubeflow-applied-cncf-incubating/) Stay tuned!
 
 A curated list of awesome projects and resources related to [Kubeflow](https://www.kubeflow.org/).
+
+<img align="center" src="https://raw.githubusercontent.com/kubeflow/website/master/static/images/logo.svg" alt="kubeflow" width="30%" height="30%">
 
 ## What is Kubeflow?
 

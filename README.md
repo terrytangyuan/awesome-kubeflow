@@ -49,7 +49,8 @@ Other open source projects that use Kubeflow:
 * [Seldon](https://github.com/SeldonIO/seldon-core) is an MLOps framework to package, deploy, monitor and manage thousands of production machine learning models.
 * [SQLFlow](https://github.com/sql-machine-learning/sqlflow) extends SQL to support AI and compiles the SQL program to a workflow that runs on Kubernetes.
 * [ZenML](https://github.com/zenml-io/zenml) is a framework to build portable, production-ready MLOps pipelines.
-
+* [Elyra](https://github.com/elyra-ai/elyra) is a set of AI-centric extensions to JupyterLab Notebooks, that contains a visual pipeline editor.
+* [Pipeline Editor](https://github.com/Cloud-Pipelines/pipeline-editor) web app that allows the users to build and run Machine Learning pipelines using drag and drop. A VSCode extension can be found [here](https://marketplace.visualstudio.com/items?itemName=Cloud-pipelines.pipeline-editor-vscode).
 <a name="books" />
 
 ## Books

@@ -47,6 +47,7 @@ Other open source projects that use or integrate with Kubeflow:
 * [Kedro](https://github.com/quantumblacklabs/kedro) is an open-source Python framework for creating reproducible, maintainable and modular data science code.
 * [KServe](https://github.com/kserve/kserve) provides a Kubernetes Custom Resource Definition for serving machine learning models on arbitrary frameworks.
 * [MLRun](https://github.com/mlrun/mlrun) is an open MLOps platform for quickly building and managing continuous ML applications across their lifecycle.
+* [ModelDB](https://github.com/VertaAI/modeldb)
 * [Polyaxon](https://github.com/polyaxon/polyaxon) is a platform for building, training, and monitoring large scale deep learning applications.
 * [Seldon](https://github.com/SeldonIO/seldon-core) is an MLOps framework to package, deploy, monitor and manage thousands of production machine learning models.
 * [SQLFlow](https://github.com/sql-machine-learning/sqlflow) extends SQL to support AI and compiles the SQL program to a workflow that runs on Kubernetes.
@@ -68,7 +69,7 @@ Other open source projects that use or integrate with Kubeflow:
 
 ## Blog Posts
 
-Please check out the [official Kubeflow Project blog](https://blog.kubeflow.org/). Additional links:
+Please check out the [official Kubeflow Project blog](https://blog.kubeflow.org/). Additional blog posts:
 
 * [Data Science Meets Devops: MLOps with Jupyter, Git, & Kubernetes](https://blog.kubeflow.org/mlops/)
 * [Elastic Training with MPI Operator and Practice](https://blog.kubeflow.org/elastic%20training/operators/2021/03/15/elastic-training.html)
@@ -98,37 +99,74 @@ Please check out the [official Kubeflow Project blog](https://blog.kubeflow.org/
 
 ## Videos
 
+Please check out the [official Kubeflow YouTube channel](https://www.youtube.com/@Kubeflow). Additional videos:
+
 * [A 10 Minute Introduction to Kubeflow: Basics, Architecture & Components](https://youtu.be/G7zW1Wqym00)
+* [Accelerate ML Model Development for Autonomous Vehicles in Aurora](https://youtu.be/cGWfeYUBPcg)
 * [Accelerating Machine Learning App Development with Kubeflow Pipelines](https://youtu.be/TZ1lGrJLEZ0)
+* [A Simple, NVIDIA-accelerated Kubeflow Pipeline](https://youtu.be/MdwANJnUFng)
 * [A Tour of Katib's new UI for Kubeflow 1.3](https://youtu.be/1DtjB_boWcQ)
 * [AutoML and Training WG Summit 2021](https://youtube.com/playlist?list=PL2gwy7BdKoGd9HQBCz1iC7vyFVN7Wa9N2)
 * [Bridging into Python Ecosystem with Cloud-Native Distributed Machine Learning Pipelines](https://github.com/terrytangyuan/public-talks/tree/main/talks/bridging-into-python-ecosystem-with-cloud-native-distributed-machine-learning-pipelines-argocon-2021)
 * [Building a Machine Learning Pipeline with Kubeflow](https://youtu.be/6wWdNg0GMV4)
 * [Building and Managing a Centralized Kubeflow Platform at Spotify](https://youtu.be/m9XhsnNSMAI)
+* [Building an ML Application Platform from the Ground Up](https://youtu.be/uNMH4JCUmR4)
 * [Building AutoML Pipelines With Argo Workflows and Katib](https://youtu.be/d8o7fEd8l2g)
 * [Building end-to-end ML workflows with Kubeflow Pipelines](https://youtu.be/90hPRXiBn4U)
+* [Building Real Time Image Classification with Kubeflow Orchestrator](https://youtu.be/1OHMipvyzRU)
+* [Building Together: Community in Kubeflow](https://youtu.be/EBH8thFYCyQ)
+* [Charmed for Kubeflow: A Distribution for Everybody](https://youtu.be/alu5ZjPHxF4)
 * [Cloud Native AutoML with Argo Workflows and Katib](https://youtu.be/KjHqmS4gIxM?t=181)
+* [Converting Kaggle Competitions into Kubeflow Pipelines](https://youtu.be/cF-UPrTCvFE)
+* [DGL Operator and Graph Training](https://youtu.be/hlrdWey0RKs)
 * [Distributed Training and HPO Deep Dive](https://youtu.be/KJFOlhD3L1E)
+* [Enterprise MLOps using Kubeflow with DKube](https://youtu.be/xmdpOrYaPDQ)
+* [Experiment Tracking with Kubeflow](https://youtu.be/wpGjcSOibmE)
+* [Feast: Feature Storage for Machine Learning](https://youtu.be/JNP1UxvSHO0)
 * [From Notebook to Kubeflow Pipelines to KFServing: the Data Science Odyssey](https://youtu.be/VDINH5WkBhA)
 * [From Notebook to Kubeflow Pipelines with HP Tuning](https://youtu.be/QK0NxhyADpM)
 * [From Notebook to Kubeflow Pipelines with MiniKF & Kale](https://youtu.be/1fX9ZFWkvvs)
+* [From Zero to Kubeflow](https://youtu.be/AF-WH967_s4)
 * [Hiding Kubernetes Complexity for ML Engineers Using Kubeflow](https://docs.google.com/presentation/d/1Fepo9TUgbsO7YpxenCq17Y9KKQU_VgqYjAVBFWAFIU4/edit?usp=sharing)
 * [Hyperparameter Tuning Using Kubeflow](https://youtu.be/OkAoiA6A2Ac)
 * [Hyperparameter Tuning with Katib](https://youtu.be/nIKVlosDvrc)
 * [Introducing Couler: Unified Interface for Constructing and Managing Workflows](https://github.com/terrytangyuan/public-talks/tree/main/talks/introducing-couler-unified-interface-for-constructing-and-managing-workflows-argo-workflows-community-meeting)
+* [Katib and Training Operator](https://youtu.be/qDKSH_X68XE)
+* [Katib User Journey](https://youtu.be/8nIhUx9rnOU)
+* [KFServing: Enabling Serverless Workloads Across Model Frameworks](https://youtu.be/hGIvlFADMhU)
+* [KServe: The State and Future of Cloud Native Model Serving](https://youtu.be/s6TDq8naG48)
+* [Kubeflow & Alibaba Arena](https://youtu.be/eGaCv_3vnas)
+* [Kubeflow & TFX](https://youtu.be/dm3IrSPiZ3Y)
 * [Kubeflow 101 from Google Cloud](https://youtube.com/playlist?list=PLIivdWyY5sqLS4lN75RPDEyBgTro_YX7x)
 * [Kubeflow: Machine Learning on Kubernetes](https://youtu.be/HBxyLnEzyhw)
+* [Kubeflow and the ML Landscape](https://youtu.be/4i97ITih2Ow)
+* [Kubeflow Experiments at LinkedIn](https://youtu.be/kExwqij11cg)
+* [Kubeflow Fairing](https://youtu.be/SN70he8oFME)
+* [Kubeflow for Enterprise – Samsung Case](https://youtu.be/6DTIRe0ih9c)
+* [Kubeflow inference on knative](https://youtu.be/coL4O3Itz-c)
 * [Kubeflow Katib & Hyperparameter Tuning](https://youtu.be/1PKH_D6zjoM)
+* [Kubeflow Pipelines 2.0: Introduction & Roadmap](https://youtu.be/JiM69LyUvEM)
+* [Kubeflow Universal Training Operator](https://youtu.be/fMXFbREG7Yg)
 * [Kubeflow vs SageMaker in Machine Learning](https://www.youtube.com/watch?v=lugapU4nOww)
 * [Machine Learning as Code: GitOps for ML with Kubeflow and ArgoCD](https://www.youtube.com/watch?v=VXrGp5er1ZE&t=0s&index=135&list=PLj6h78yzYM2PZf9eA7bhWnIh_mK1vyOfU)
 * [Managing Thousands of Automatic Machine Learning Experiments with Argo and Katib](https://youtu.be/0jBNXZjQ01I)
+* [MiniKF: The Fastest and Easiest Way to a Local Kubeflow](https://youtu.be/5S5gTsEdgoQ)
 * [MLOps and AutoML in Cloud-Native Way with Kubeflow and Katib](https://youtu.be/33VJ6KNBBvU)
+* [ModelDB: Open-source Model Management](https://youtu.be/7KMXQuh12VE)
+* [Model Monitoring for Model Trained and Served on Kubeflow](https://youtu.be/xu-V13XbYCQ)
+* [Multi-user Kubeflow Environments](https://youtu.be/4z6wB4O1R80)
+* [Nested Workflows in Kubeflow Pipelines](https://youtu.be/1gf4VBH-DbA)
 * [Neural Architecture Search System on Kubeflow](https://youtu.be/WAK37UW7spo)
 * [New UI for Kubeflow components](https://youtu.be/OKqx3IS2_G4)
 * [Orchestrating Apache Spark with Kubeflow on Kubernetes](https://youtu.be/8862JRDdpm8)
+* [Paddle Operator and EDL Introduction](https://youtu.be/Hblh9HvVlxg)
+* [Roblox User Story](https://youtu.be/GTbuI_Xepuo)
+* [Serverless Magic for ML Orchestration using Kubeflow](https://youtu.be/2FU-VQizl0w)
 * [Taming Your AI/ML Workloads with Kubeflow](https://youtu.be/B4soMk6AzOk)
+* [Tour of New Katib UI](https://youtu.be/pk9ptAkR84k)
 * [Towards Cloud-Native Distributed Machine Learning Pipelines at Scale](https://github.com/terrytangyuan/public-talks/tree/main/talks/towards-cloud-native-distributed-machine-learning-pipelines-at-scale-pydata-global-2021)
 * [Training and Serving ML Model using Kubeflow](https://youtu.be/Xr_8ypMftFo)
+* [Understanding the Earth: Machine Learning with Kubeflow Pipelines](https://youtu.be/lfuWyULSaR8)
 * [Using Pipelines in Katib](https://youtu.be/BszcHMkGLgc)
 * [When Machine Learning Toolkit for Kubernetes Meets PaddlePaddle](https://github.com/terrytangyuan/public-talks/tree/main/talks/when-machine-learning-toolkit-for-kubernetes-meets-paddlepaddle-wave-summit-2021)
 

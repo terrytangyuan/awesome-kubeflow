@@ -72,24 +72,27 @@ Please check out the [official Kubeflow Project blog](https://blog.kubeflow.org/
 
 * [Data Science Meets Devops: MLOps with Jupyter, Git, & Kubernetes](https://blog.kubeflow.org/mlops/)
 * [Elastic Training with MPI Operator and Practice](https://blog.kubeflow.org/elastic%20training/operators/2021/03/15/elastic-training.html)
+* [Enabling Kubeflow with Enterprise-Grade Auth for On-Premise Deployments](https://medium.com/kubeflow/enabling-kubeflow-with-enterprise-grade-auth-for-on-premise-deployments-ae7dd13a69e5)
 * [GitOps for Kubeflow using Argo CD](https://v0-6.kubeflow.org/docs/use-cases/gitops-for-kubeflow/)
 * [Humans of Cloud Native: From Argo to Mentoring and Everything In Between](https://www.cncf.io/humans-of-cloud-native/yuan-tang-from-argo-to-mentoring-and-everything-in-between/)
 * [Introduction to Kubeflow MPI Operator and Industry Adoption](https://terrytangyuan.github.io/2020/03/17/introduction-to-kubeflow-mpi-operator-and-industry-adoption/)
-* [KServe: The next generation of KFServing](https://blog.kubeflow.org/release/official/2021/09/27/kfserving-transition.html)
-* [Kubeflow & Kale simplify building better ML Pipelines with automatic hyperparameter tuning](https://blog.kubeflow.org/integrations/2020/07/10/kubeflow-kale.html)
-* [Kubeflow's 1.4 release lays the foundation for advanced ML metadata workflows](https://blog.kubeflow.org/kubeflow-1.4-release/)
+* [KServe: The Next Generation of KFServing](https://blog.kubeflow.org/release/official/2021/09/27/kfserving-transition.html)
+* [Kubeflow & Kale Simplify Building Better ML Pipelines With Automatic Hyperparameter Tuning](https://blog.kubeflow.org/integrations/2020/07/10/kubeflow-kale.html)
+* [Kubeflow’s 1.4 Release Lays the Foundation for Advanced ML Metadata Workflows](https://blog.kubeflow.org/kubeflow-1.4-release/)
 * [Kubeflow 1.0 - Cloud Native ML for Everyone](https://blog.kubeflow.org/releases/2020/03/02/kubeflow-1-0-cloud-native-ml-for-everyone.html)
-* [Kubeflow 1.1 improves ML Workflow Productivity, Isolation & Security, and GitOps](https://blog.kubeflow.org/release/official/2020/07/31/kubeflow-1.1-blog-post.html)
+* [Kubeflow 1.1 Improves ML Workflow Productivity, Isolation & Security, and GitOps](https://blog.kubeflow.org/release/official/2020/07/31/kubeflow-1.1-blog-post.html)
 * [Kubeflow Continues to Move into Production](https://blog.kubeflow.org/kubeflow-continues-to-move-to-production)
-* [Kubeflow has applied to become a CNCF incubating project](https://blog.kubeflow.org/kubeflow-applied-cncf-incubating/)
+* [Kubeflow Has Applied To Become a CNCF Incubating Project](https://blog.kubeflow.org/kubeflow-applied-cncf-incubating/)
 * [Kubeflow Katib: Scalable, Portable and Cloud Native System for AutoML](https://blog.kubeflow.org/katib/)
-* [Kubeflow v1.5 improves ML model accuracy, reduces infrastructure costs and optimizes MLOps](https://blog.kubeflow.org/kubeflow-1.5-release/)
-* [Kubeflow v1.6 delivers support for Kubernetes v1.22 and introduces an alpha release of the Kubeflow Pipeline v2 functionality](https://blog.kubeflow.org/kubeflow-1.6-release/)
+* [Kubeflow v1.5 Improves ML Model Accuracy, Reduces Infrastructure Costs and Optimizes MLOps](https://blog.kubeflow.org/kubeflow-1.5-release/)
+* [Kubeflow v1.6 Delivers Support for Kubernetes v1.22 and Introduces an Alpha Release of the Kubeflow Pipeline v2 Functionality](https://blog.kubeflow.org/kubeflow-1.6-release/)
+* [Kubeflow Welcomes Two Google Summer of Code Students](https://medium.com/kubeflow/kubeflow-welcomes-two-google-summer-of-code-students-6d4b49eb7763)
+* [Kubeflow’s 2nd Doc Sprint: 10+ New Docs & Samples Ahead of Kubeflow 1.0](https://medium.com/kubeflow/kubeflow-doc-sprint-results-and-thanks-8953d17560ba)
 * [Operationalize, Scale and Infuse Trust in AI Models using KFServing](https://blog.kubeflow.org/release/official/2021/03/08/kfserving-0.5.html)
-* [Record metadata on Kubeflow from Notebooks](https://blog.kubeflow.org/jupyter/2020/10/01/lineage.html)
-* [Running Kubeflow at Intuit: Enmeshed in the service mesh](https://blog.kubeflow.org/running-kubeflow-at-intuit/)
-* [The Kubeflow 1.3 software release streamlines ML workflows and simplifies ML platform operations](https://blog.kubeflow.org/kubeflow-1.3-release/)
-* [Unified Training Operator release announcement](https://blog.kubeflow.org/unified-training-operator-1.3-release/)
+* [Record Metadata on Kubeflow from Notebooks](https://blog.kubeflow.org/jupyter/2020/10/01/lineage.html)
+* [Running Kubeflow at Intuit: Enmeshed in the Service Mesh](https://blog.kubeflow.org/running-kubeflow-at-intuit/)
+* [The Kubeflow 1.3 Release Streamlines ML Workflows and Simplifies ML Platform Operations](https://blog.kubeflow.org/kubeflow-1.3-release/)
+* [Unified Training Operator Release Announcement](https://blog.kubeflow.org/unified-training-operator-1.3-release/)
 
 <a name="videos" />
 
@@ -138,7 +141,7 @@ Please check out the [official Kubeflow Project blog](https://blog.kubeflow.org/
 * [Working Groups](https://github.com/kubeflow/community/blob/master/wg-list.md)
 * [GitHub Organization](https://github.com/kubeflow)
 * [Community Governance](https://github.com/kubeflow/community/blob/master/wgs/wg-governance.md)
-* Community User Surveys ([2022](https://blog.kubeflow.org/kubeflow-user-survey-2022/))
+* Community User Surveys ([2022](https://blog.kubeflow.org/kubeflow-user-survey-2022/), [2019 Fall](https://medium.com/kubeflow/kubeflow-community-user-survey-fall-2019-a84776c71743), [2019 Spring](https://medium.com/kubeflow/kubeflow-community-user-survey-spring-2019-44f86c794e67))
 
 Social media accounts:
 

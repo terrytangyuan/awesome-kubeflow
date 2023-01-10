@@ -39,11 +39,12 @@ Main projects in Kubeflow:
 * [Fairing](https://github.com/kubeflow/fairing) is a Python SDK for building, training, and deploying ML models.
 
 
-Other open source projects that use Kubeflow:
+Other open source projects that use or integrate with Kubeflow:
 
 * [Couler](https://github.com/couler-proj/couler) provides a unified interface for constructing and managing workflows on different workflow engines.
 * [Kale](https://github.com/kubeflow-kale/kale) is aims at simplifying the data science experience of deploying Kubeflow Pipelines workflows.
 * [Kedro](https://github.com/quantumblacklabs/kedro) is an open-source Python framework for creating reproducible, maintainable and modular data science code.
+* [KServe](https://github.com/kserve/kserve) provides a Kubernetes Custom Resource Definition for serving machine learning models on arbitrary frameworks.
 * [MLRun](https://github.com/mlrun/mlrun) is an open MLOps platform for quickly building and managing continuous ML applications across their lifecycle.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) is a platform for building, training, and monitoring large scale deep learning applications.
 * [Seldon](https://github.com/SeldonIO/seldon-core) is an MLOps framework to package, deploy, monitor and manage thousands of production machine learning models.

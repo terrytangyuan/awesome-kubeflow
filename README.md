@@ -47,7 +47,7 @@ Other open source projects that use or integrate with Kubeflow:
 * [Kedro](https://github.com/quantumblacklabs/kedro) is an open-source Python framework for creating reproducible, maintainable and modular data science code.
 * [KServe](https://github.com/kserve/kserve) provides a Kubernetes Custom Resource Definition for serving machine learning models on arbitrary frameworks.
 * [MLRun](https://github.com/mlrun/mlrun) is an open MLOps platform for quickly building and managing continuous ML applications across their lifecycle.
-* [ModelDB](https://github.com/VertaAI/modeldb)
+* [ModelDB](https://github.com/VertaAI/modeldb) is an open-source system to version machine learning models including their ingredients code, data, config, and environment and to track ML metadata across the model lifecycle.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) is a platform for building, training, and monitoring large scale deep learning applications.
 * [Seldon](https://github.com/SeldonIO/seldon-core) is an MLOps framework to package, deploy, monitor and manage thousands of production machine learning models.
 * [SQLFlow](https://github.com/sql-machine-learning/sqlflow) extends SQL to support AI and compiles the SQL program to a workflow that runs on Kubernetes.
@@ -92,6 +92,7 @@ Please check out the [official Kubeflow Project blog](https://blog.kubeflow.org/
 * [Operationalize, Scale and Infuse Trust in AI Models using KFServing](https://blog.kubeflow.org/release/official/2021/03/08/kfserving-0.5.html)
 * [Record Metadata on Kubeflow from Notebooks](https://blog.kubeflow.org/jupyter/2020/10/01/lineage.html)
 * [Running Kubeflow at Intuit: Enmeshed in the Service Mesh](https://blog.kubeflow.org/running-kubeflow-at-intuit/)
+* [Scalable and Cloud-Native Hyperparameter Tuning System](https://arxiv.org/abs/2006.02085)
 * [The Kubeflow 1.3 Release Streamlines ML Workflows and Simplifies ML Platform Operations](https://blog.kubeflow.org/kubeflow-1.3-release/)
 * [Unified Training Operator Release Announcement](https://blog.kubeflow.org/unified-training-operator-1.3-release/)
 

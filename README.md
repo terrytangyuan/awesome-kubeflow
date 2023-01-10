@@ -41,6 +41,7 @@ Main projects in Kubeflow:
 
 Other open source projects that use or integrate with Kubeflow:
 
+* [Argo Workflows](https://github.com/argoproj/argo-workflows) is a container-native workflow engine for orchestrating parallel jobs on Kubernetes. 
 * [Couler](https://github.com/couler-proj/couler) provides a unified interface for constructing and managing workflows on different workflow engines.
 * [Kale](https://github.com/kubeflow-kale/kale) is aims at simplifying the data science experience of deploying Kubeflow Pipelines workflows.
 * [Kedro](https://github.com/quantumblacklabs/kedro) is an open-source Python framework for creating reproducible, maintainable and modular data science code.

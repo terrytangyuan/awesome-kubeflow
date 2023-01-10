@@ -2,7 +2,7 @@
 
 # Awesome Kubeflow
 
-🎉 [Kubeflow has applied to come a CNCF incubating project!](https://blog.kubeflow.org/kubeflow-applied-cncf-incubating/) Stay tuned!
+🎉 [Kubeflow has applied to become a CNCF incubating project!](https://blog.kubeflow.org/kubeflow-applied-cncf-incubating/) Stay tuned!
 
 A curated list of awesome projects and resources related to [Kubeflow](https://www.kubeflow.org/).
 

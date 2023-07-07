@@ -76,6 +76,7 @@ Please check out the [official Kubeflow Project blog](https://blog.kubeflow.org/
 * [Elastic Training with MPI Operator and Practice](https://blog.kubeflow.org/elastic%20training/operators/2021/03/15/elastic-training.html)
 * [Enabling Kubeflow with Enterprise-Grade Auth for On-Premise Deployments](https://medium.com/kubeflow/enabling-kubeflow-with-enterprise-grade-auth-for-on-premise-deployments-ae7dd13a69e5)
 * [GitOps for Kubeflow using Argo CD](https://v0-6.kubeflow.org/docs/use-cases/gitops-for-kubeflow/)
+* [Hardening Kubeflow Security for Enterprise Environments](https://blogs.vmware.com/opensource/2023/06/20/hardening-kubeflow-security-for-enterprise-environments-2/)
 * [Humans of Cloud Native: From Argo to Mentoring and Everything In Between](https://www.cncf.io/humans-of-cloud-native/yuan-tang-from-argo-to-mentoring-and-everything-in-between/)
 * [Introduction to Kubeflow MPI Operator and Industry Adoption](https://terrytangyuan.github.io/2020/03/17/introduction-to-kubeflow-mpi-operator-and-industry-adoption/)
 * [KServe: The Next Generation of KFServing](https://blog.kubeflow.org/release/official/2021/09/27/kfserving-transition.html)

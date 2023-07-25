@@ -2,7 +2,7 @@
 
 # Awesome Kubeflow
 
-🎉 [Kubeflow is now an incubating project in CNCF!](https://www.cncf.io/blog/2023/07/25/kubeflow-brings-mlops-to-the-cncf-incubator/). 
+🎉 [Kubeflow is now an incubating project in CNCF!](https://www.cncf.io/blog/2023/07/25/kubeflow-brings-mlops-to-the-cncf-incubator/)
 
 A curated list of awesome projects and resources related to [Kubeflow](https://www.kubeflow.org/).
 

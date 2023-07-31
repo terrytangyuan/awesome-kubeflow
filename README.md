@@ -92,6 +92,7 @@ Please check out the [official Kubeflow Project blog](https://blog.kubeflow.org/
 * [Kubeflow v1.6 Delivers Support for Kubernetes v1.22 and Introduces an Alpha Release of the Kubeflow Pipeline v2 Functionality](https://blog.kubeflow.org/kubeflow-1.6-release/)
 * [Kubeflow Welcomes Two Google Summer of Code Students](https://medium.com/kubeflow/kubeflow-welcomes-two-google-summer-of-code-students-6d4b49eb7763)
 * [Kubeflow’s 2nd Doc Sprint: 10+ New Docs & Samples Ahead of Kubeflow 1.0](https://medium.com/kubeflow/kubeflow-doc-sprint-results-and-thanks-8953d17560ba)
+* [Kubeflow is More Accessible than Ever](https://towardsdatascience.com/kubeflow-is-more-accessible-than-ever-with-minikf-33484d9cb26b)
 * [Operationalize, Scale and Infuse Trust in AI Models using KFServing](https://blog.kubeflow.org/release/official/2021/03/08/kfserving-0.5.html)
 * [Record Metadata on Kubeflow from Notebooks](https://blog.kubeflow.org/jupyter/2020/10/01/lineage.html)
 * [Running Kubeflow at Intuit: Enmeshed in the Service Mesh](https://blog.kubeflow.org/running-kubeflow-at-intuit/)

@@ -2,7 +2,9 @@
 
 # Awesome Kubeflow
 
-🎉 [Kubeflow is now an incubating project in CNCF!](https://www.cncf.io/blog/2023/07/25/kubeflow-brings-mlops-to-the-cncf-incubator/)
+🔔 NEWS:
+* Kubeflow Summit is now a colocated event in KubeCon Europe 2024. [Register now!](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/kubeflow-summit/)
+* 🎉 [Kubeflow is now an incubating project in CNCF!](https://www.cncf.io/blog/2023/07/25/kubeflow-brings-mlops-to-the-cncf-incubator/)
 
 A curated list of awesome projects and resources related to [Kubeflow](https://www.kubeflow.org/).
 

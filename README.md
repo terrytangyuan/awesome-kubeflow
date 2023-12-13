@@ -107,7 +107,13 @@ Please check out the [official Kubeflow Project blog](https://blog.kubeflow.org/
 
 ## Videos
 
-Please check out the [official Kubeflow YouTube channel](https://www.youtube.com/@Kubeflow). Additional videos:
+Please check out the [official Kubeflow YouTube channel](https://www.youtube.com/@Kubeflow).
+
+### Kubeflow Summit talks playlist
+
+* [Kubeflow Summit 2023](https://www.youtube.com/watch?v=_UlfF8hb_Ko&list=PL2gwy7BdKoGdrkYIWGeAdKi9ntfxq8FYt&index=1)
+
+### Additional videos
 
 * [A 10 Minute Introduction to Kubeflow: Basics, Architecture & Components](https://youtu.be/G7zW1Wqym00)
 * [Accelerate ML Model Development for Autonomous Vehicles in Aurora](https://youtu.be/cGWfeYUBPcg)

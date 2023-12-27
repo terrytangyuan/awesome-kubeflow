@@ -49,7 +49,7 @@ Other open source projects that use or integrate with Kubeflow:
 * [deployKF](https://github.com/deployKF/deployKF) effortlessly integrates Kubeflow and leading MLOps tools on Kubernetes into open ML platforms.
 * [Kale](https://github.com/kubeflow-kale/kale) is aims at simplifying the data science experience of deploying Kubeflow Pipelines workflows.
 * [Kedro](https://github.com/quantumblacklabs/kedro) is an open-source Python framework for creating reproducible, maintainable and modular data science code.
-* [KServe](https://github.com/kserve/kserve) provides a Kubernetes Custom Resource Definition for serving machine learning models on arbitrary frameworks.
+* [KServe](https://github.com/kserve/kserve) is a standardized serverless ML inference platform on Kubernetes.
 * [MLRun](https://github.com/mlrun/mlrun) is an open MLOps platform for quickly building and managing continuous ML applications across their lifecycle.
 * [ModelDB](https://github.com/VertaAI/modeldb) is an open-source system to version machine learning models including their ingredients code, data, config, and environment and to track ML metadata across the model lifecycle.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) is a platform for building, training, and monitoring large scale deep learning applications.

@@ -110,6 +110,7 @@ Please check out the [official Kubeflow YouTube channel](https://www.youtube.com
 ### Kubeflow Summit talks playlist
 
 * [Kubeflow Summit 2023](https://www.youtube.com/watch?v=_UlfF8hb_Ko&list=PL2gwy7BdKoGdrkYIWGeAdKi9ntfxq8FYt&index=1)
+* [Community Meeting Recordings](https://youtube.com/playlist?list=PLmzRWLV1CK_ypvsQu10SGRmhf2S7mbYL5&si=Dgybdd5rLpl3farh)
 
 ### Additional videos
 

@@ -39,8 +39,6 @@ Main projects in Kubeflow:
 * [Pipelines](https://github.com/kubeflow/pipelines) is dedicated to making deployments of machine learning workflows on Kubernetes simple, portable, and scalable with Kubeflow.
 * [Training Operator](https://github.com/kubeflow/training-operator) provides Kubernetes custom resources that makes it easy to run distributed or non-distributed TensorFlow/PyTorch/Apache MXNet/XGBoost/MPI jobs on Kubernetes.
 * [Arena](https://github.com/kubeflow/arena) is a CLI for Kubeflow.
-* [Fairing](https://github.com/kubeflow/fairing) is a Python SDK for building, training, and deploying ML models.
-
 
 Other open source projects that use or integrate with Kubeflow:
 

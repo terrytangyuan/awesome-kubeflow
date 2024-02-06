@@ -3,6 +3,7 @@
 # Awesome Kubeflow
 
 🔔 NEWS:
+* [Kubeflow Project Steering Committee Announced](https://blog.kubeflow.org/election/2024/01/31/kubeflow-project-steering-committee-announced.html)
 * The book [Distributed Machine Learning Patterns](https://bit.ly/2RKv8Zo) from Manning Publications (uses Kubeflow) is officially published!
 * Kubeflow Summit is now a colocated event in KubeCon Europe 2024. [Register now!](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/kubeflow-summit/)
 * 🎉 [Kubeflow is now an incubating project in CNCF!](https://www.cncf.io/blog/2023/07/25/kubeflow-brings-mlops-to-the-cncf-incubator/)

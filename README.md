@@ -3,6 +3,7 @@
 # Awesome Kubeflow
 
 🔔 NEWS:
+* [Videos from Kubeflow Summit Europe 2024 is available](https://youtube.com/playlist?list=PLj6h78yzYM2Nk-8Zyjaefz9yFJ-NxC-qn&si=y9wvfS_KlOaipPWY)
 * [Kubeflow Project Steering Committee Announced](https://blog.kubeflow.org/election/2024/01/31/kubeflow-project-steering-committee-announced.html)
 * The book [Distributed Machine Learning Patterns](https://bit.ly/2RKv8Zo) from Manning Publications (uses Kubeflow) is officially published!
 * Kubeflow Summit is now a colocated event in KubeCon Europe 2024. [Register now!](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/kubeflow-summit/)
@@ -110,6 +111,7 @@ Please check out the [official Kubeflow YouTube channel](https://www.youtube.com
 
 ### Kubeflow Summit talks playlist
 
+* [Kubeflow Summit Europe 2024](https://youtube.com/playlist?list=PLj6h78yzYM2Nk-8Zyjaefz9yFJ-NxC-qn&si=y9wvfS_KlOaipPWY)
 * [Kubeflow Summit 2023](https://www.youtube.com/watch?v=_UlfF8hb_Ko&list=PL2gwy7BdKoGdrkYIWGeAdKi9ntfxq8FYt&index=1)
 * [Community Meeting Recordings](https://youtube.com/playlist?list=PLmzRWLV1CK_ypvsQu10SGRmhf2S7mbYL5&si=Dgybdd5rLpl3farh)
 

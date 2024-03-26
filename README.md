@@ -176,6 +176,7 @@ Please check out the [official Kubeflow YouTube channel](https://www.youtube.com
 * [New UI for Kubeflow components](https://youtu.be/OKqx3IS2_G4)
 * [Orchestrating Apache Spark with Kubeflow on Kubernetes](https://youtu.be/8862JRDdpm8)
 * [Paddle Operator and EDL Introduction](https://youtu.be/Hblh9HvVlxg)
+* [Production-Ready AI Platform on Kubernetes](https://github.com/terrytangyuan/public-talks/tree/main/talks/kubecon-europe-2024-production-ai-platform-on-k8s)
 * [Roblox User Story](https://youtu.be/GTbuI_Xepuo)
 * [Serverless Magic for ML Orchestration using Kubeflow](https://youtu.be/2FU-VQizl0w)
 * [Taming Your AI/ML Workloads with Kubeflow](https://youtu.be/B4soMk6AzOk)

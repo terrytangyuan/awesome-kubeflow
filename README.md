@@ -196,7 +196,7 @@ Please check out the [official Kubeflow YouTube channel](https://www.youtube.com
 * [Working Groups](https://github.com/kubeflow/community/blob/master/wg-list.md)
 * [GitHub Organization](https://github.com/kubeflow)
 * [Community Governance](https://github.com/kubeflow/community/blob/master/wgs/wg-governance.md)
-* Community User Surveys ([2022](https://blog.kubeflow.org/kubeflow-user-survey-2022/), [2019 Fall](https://medium.com/kubeflow/kubeflow-community-user-survey-fall-2019-a84776c71743), [2019 Spring](https://medium.com/kubeflow/kubeflow-community-user-survey-spring-2019-44f86c794e67))
+* Community User Surveys ([2023](https://blog.kubeflow.org/kubeflow-user-survey-2023/), [2022](https://blog.kubeflow.org/kubeflow-user-survey-2022/), [2019 Fall](https://medium.com/kubeflow/kubeflow-community-user-survey-fall-2019-a84776c71743), [2019 Spring](https://medium.com/kubeflow/kubeflow-community-user-survey-spring-2019-44f86c794e67))
 
 Social media accounts:
 

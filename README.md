@@ -136,6 +136,7 @@ Please check out the [official Kubeflow YouTube channel](https://www.youtube.com
 * [Converting Kaggle Competitions into Kubeflow Pipelines](https://youtu.be/cF-UPrTCvFE)
 * [DGL Operator and Graph Training](https://youtu.be/hlrdWey0RKs)
 * [Distributed Training and HPO Deep Dive](https://youtu.be/KJFOlhD3L1E)
+* [Engineering Cloud Native AI Platform](https://github.com/terrytangyuan/public-talks/tree/main/talks/platform-con-2024-engineering-cloud-native-ai-platform)
 * [Enterprise MLOps using Kubeflow with DKube](https://youtu.be/xmdpOrYaPDQ)
 * [Experiment Tracking with Kubeflow](https://youtu.be/wpGjcSOibmE)
 * [Feast: Feature Storage for Machine Learning](https://youtu.be/JNP1UxvSHO0)

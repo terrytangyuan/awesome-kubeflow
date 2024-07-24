@@ -196,6 +196,7 @@ Please check out the [official Kubeflow YouTube channel](https://www.youtube.com
 ## Community
 
 * [Community Calendar](https://www.kubeflow.org/docs/about/community/#kubeflow-community-calendars)
+* [Kubeflow Steering Committee (KSC)](https://github.com/kubeflow/community/blob/master/KUBEFLOW-STEERING-COMMITTEE.md)
 * [Working Groups](https://github.com/kubeflow/community/blob/master/wg-list.md)
 * [GitHub Organization](https://github.com/kubeflow)
 * [Community Governance](https://github.com/kubeflow/community/blob/master/wgs/wg-governance.md)

@@ -3,6 +3,7 @@
 # Awesome Kubeflow
 
 🔔 NEWS:
+* [Kubeflow v1.9 released](https://blog.kubeflow.org/kubeflow-1.9-release/)
 * [Videos from Kubeflow Summit Europe 2024 is available](https://youtube.com/playlist?list=PLj6h78yzYM2Nk-8Zyjaefz9yFJ-NxC-qn&si=y9wvfS_KlOaipPWY)
 * [Kubeflow Project Steering Committee Announced](https://blog.kubeflow.org/election/2024/01/31/kubeflow-project-steering-committee-announced.html)
 * The book [Distributed Machine Learning Patterns](https://bit.ly/2RKv8Zo) from Manning Publications (uses Kubeflow) is officially published.
@@ -92,10 +93,12 @@ Please check out the [official Kubeflow Project blog](https://blog.kubeflow.org/
 * [Kubeflow Katib: Scalable, Portable and Cloud Native System for AutoML](https://blog.kubeflow.org/katib/)
 * [Kubeflow v1.5 Improves ML Model Accuracy, Reduces Infrastructure Costs and Optimizes MLOps](https://blog.kubeflow.org/kubeflow-1.5-release/)
 * [Kubeflow v1.6 Delivers Support for Kubernetes v1.22 and Introduces an Alpha Release of the Kubeflow Pipeline v2 Functionality](https://blog.kubeflow.org/kubeflow-1.6-release/)
+* [Kubeflow 1.9: New Tools for Model Management and Training Optimization](https://blog.kubeflow.org/kubeflow-1.9-release/)
 * [Kubeflow Welcomes Two Google Summer of Code Students](https://medium.com/kubeflow/kubeflow-welcomes-two-google-summer-of-code-students-6d4b49eb7763)
 * [Kubeflow’s 2nd Doc Sprint: 10+ New Docs & Samples Ahead of Kubeflow 1.0](https://medium.com/kubeflow/kubeflow-doc-sprint-results-and-thanks-8953d17560ba)
 * [Kubeflow is More Accessible than Ever](https://towardsdatascience.com/kubeflow-is-more-accessible-than-ever-with-minikf-33484d9cb26b)
 * [Operationalize, Scale and Infuse Trust in AI Models using KFServing](https://blog.kubeflow.org/release/official/2021/03/08/kfserving-0.5.html)
+* [Open Source AI at Red Hat: Our Journey in the Kubeflow Community](https://www.redhat.com/en/blog/open-source-ai-red-hat-our-journey-kubeflow-community)
 * [Record Metadata on Kubeflow from Notebooks](https://blog.kubeflow.org/jupyter/2020/10/01/lineage.html)
 * [Running Kubeflow at Intuit: Enmeshed in the Service Mesh](https://blog.kubeflow.org/running-kubeflow-at-intuit/)
 * [Scalable and Cloud-Native Hyperparameter Tuning System](https://arxiv.org/abs/2006.02085)

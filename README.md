@@ -104,6 +104,7 @@ Please check out the [official Kubeflow Project blog](https://blog.kubeflow.org/
 * [Scalable and Cloud-Native Hyperparameter Tuning System](https://arxiv.org/abs/2006.02085)
 * [The Kubeflow 1.3 Release Streamlines ML Workflows and Simplifies ML Platform Operations](https://blog.kubeflow.org/kubeflow-1.3-release/)
 * [Unified Training Operator Release Announcement](https://blog.kubeflow.org/unified-training-operator-1.3-release/)
+* [ZenML + Kubernetes + Kubeflow: Leveraging your MLOps infrastructure](https://www.zenml.io/blog/zenml-kubernetes-kubeflow)
 
 <a name="videos" />
 

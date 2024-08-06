@@ -3,13 +3,13 @@
 # Awesome Kubeflow
 
 🔔 NEWS:
-* [Kubeflow v1.9 released](https://blog.kubeflow.org/kubeflow-1.9-release/)
-* [Videos from Kubeflow Summit Europe 2024 is available](https://youtube.com/playlist?list=PLj6h78yzYM2Nk-8Zyjaefz9yFJ-NxC-qn&si=y9wvfS_KlOaipPWY)
-* [Kubeflow Project Steering Committee Announced](https://blog.kubeflow.org/election/2024/01/31/kubeflow-project-steering-committee-announced.html)
+* [Kubeflow v1.9 released](https://blog.kubeflow.org/kubeflow-1.9-release/).
+* [Videos from Kubeflow Summit Europe 2024 is available](https://youtube.com/playlist?list=PLj6h78yzYM2Nk-8Zyjaefz9yFJ-NxC-qn&si=y9wvfS_KlOaipPWY).
+* [Kubeflow Steering Committee announced](https://blog.kubeflow.org/election/2024/01/31/kubeflow-project-steering-committee-announced.html).
 * The book [Distributed Machine Learning Patterns](https://bit.ly/2RKv8Zo) from Manning Publications (uses Kubeflow) is officially published.
-* 🎉 [Kubeflow is now an incubating project in CNCF](https://www.cncf.io/blog/2023/07/25/kubeflow-brings-mlops-to-the-cncf-incubator/).
+* [Kubeflow is now an incubating project in CNCF](https://www.cncf.io/blog/2023/07/25/kubeflow-brings-mlops-to-the-cncf-incubator/).
 
-A curated list of awesome projects and resources related to [Kubeflow](https://www.kubeflow.org/).
+A curated list of awesome projects and resources related to [Kubeflow](https://www.kubeflow.org/), a [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) incubating project ([announcement](https://www.cncf.io/blog/2023/07/25/kubeflow-brings-mlops-to-the-cncf-incubator/)).
 
 <img align="center" src="https://raw.githubusercontent.com/kubeflow/website/master/static/images/logo.svg" alt="kubeflow" width="30%" height="30%">
 

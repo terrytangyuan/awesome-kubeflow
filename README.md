@@ -121,6 +121,7 @@ Please check out the [official Kubeflow YouTube channel](https://www.youtube.com
 
 ### Additional videos
 
+* [Best Practices for Deploying LLM Inference, RAG and Fine Tuning Pipelines](https://www.youtube.com/watch?v=EmGe_58524g)
 * [Optimizing Load Balancing and Autoscaling for Large Language Model (LLM) Inference on Kubernetes](https://www.youtube.com/watch?v=TSEGAh1bs4A)
 * [Engaging the KServe Community, The Impact of Integrating a Solutions with Standardized CNCF Projects](https://www.youtube.com/watch?v=S27wzRNsStU)
 * [Advancing Cloud Native AI Innovation Through Open Collaboration](https://www.youtube.com/watch?v=kG_wqP2CXUE)

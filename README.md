@@ -121,6 +121,11 @@ Please check out the [official Kubeflow YouTube channel](https://www.youtube.com
 
 ### Additional videos
 
+* [Optimizing Load Balancing and Autoscaling for Large Language Model (LLM) Inference on Kubernetes](https://www.youtube.com/watch?v=TSEGAh1bs4A)
+* [Engaging the KServe Community, The Impact of Integrating a Solutions with Standardized CNCF Projects](https://www.youtube.com/watch?v=S27wzRNsStU)
+* [Advancing Cloud Native AI Innovation Through Open Collaboration](https://www.youtube.com/watch?v=kG_wqP2CXUE)
+* [Unlocking Potential of Large Models in Production](https://www.youtube.com/watch?v=-xEpzaIvor4)
+* [WG Serving: Accelerating AI/ML Inference Workloads on Kubernetes](https://www.youtube.com/watch?v=QMz4wf0mwfA)
 * [A 10 Minute Introduction to Kubeflow: Basics, Architecture & Components](https://youtu.be/G7zW1Wqym00)
 * [Accelerate ML Model Development for Autonomous Vehicles in Aurora](https://youtu.be/cGWfeYUBPcg)
 * [Accelerating Machine Learning App Development with Kubeflow Pipelines](https://youtu.be/TZ1lGrJLEZ0)

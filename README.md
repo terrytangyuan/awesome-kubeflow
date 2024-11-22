@@ -3,7 +3,7 @@
 # Awesome Kubeflow
 
 🔔 NEWS:
-* [Join us at Cloud Native + Kubernetes AI Day, colocated with KubeCon/CloudNativeCon 2024 Salt Lake City. Register now!](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/cloud-native-kubernetes-ai-day/)
+* [Join us at Kubeflow Summit, colocated with KubeCon/CloudNativeCon Europe 2025. Register now!](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/kubeflow-summit/)
 * [Kubeflow v1.9 released](https://blog.kubeflow.org/kubeflow-1.9-release/).
 * [Videos from Kubeflow Summit Europe 2024 is available](https://youtube.com/playlist?list=PLj6h78yzYM2Nk-8Zyjaefz9yFJ-NxC-qn&si=y9wvfS_KlOaipPWY).
 * [Kubeflow Steering Committee announced](https://blog.kubeflow.org/election/2024/01/31/kubeflow-project-steering-committee-announced.html).

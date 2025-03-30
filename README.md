@@ -215,7 +215,7 @@ Social media accounts:
 
 * [LinkedIn](https://www.linkedin.com/company/kubeflow/)
 * [Slack](https://www.kubeflow.org/docs/about/community/#kubeflow-slack)
-* [Twitter](https://twitter.com/kubeflow)
+* [X](https://x.com/kubeflow)
 * [Reddit](https://www.reddit.com/r/kubeflow/)
 * [Bluesky](https://bsky.app/profile/kubefloworg.bsky.social)
 

@@ -3,7 +3,7 @@
 # Awesome Kubeflow
 
 🔔 NEWS:
-* [Join us at Kubeflow Summit, colocated with KubeCon/CloudNativeCon Europe 2025. Register now!](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/kubeflow-summit/)
+* [Recordings from Kubeflow Summit Europe 2025 is available](https://youtube.com/playlist?list=PLj6h78yzYM2NiD1QOHcD4PYY-8JxD0pNh&si=qu5lkor74Of8zPbZ)
 * [Kubeflow v1.9 released](https://blog.kubeflow.org/kubeflow-1.9-release/).
 * [Videos from Kubeflow Summit Europe 2024 is available](https://youtube.com/playlist?list=PLj6h78yzYM2Nk-8Zyjaefz9yFJ-NxC-qn&si=y9wvfS_KlOaipPWY).
 * [Kubeflow Steering Committee announced](https://blog.kubeflow.org/election/2024/01/31/kubeflow-project-steering-committee-announced.html).
@@ -115,6 +115,7 @@ Please check out the [official Kubeflow YouTube channel](https://www.youtube.com
 
 ### Kubeflow Summit talks playlist
 
+* [Kubeflow Summit Europe 2025](https://youtube.com/playlist?list=PLj6h78yzYM2NiD1QOHcD4PYY-8JxD0pNh&si=qu5lkor74Of8zPbZ)
 * [Kubeflow Summit Europe 2024](https://youtube.com/playlist?list=PLj6h78yzYM2Nk-8Zyjaefz9yFJ-NxC-qn&si=y9wvfS_KlOaipPWY)
 * [Kubeflow Summit 2023](https://www.youtube.com/watch?v=_UlfF8hb_Ko&list=PL2gwy7BdKoGdrkYIWGeAdKi9ntfxq8FYt&index=1)
 * [Community Meeting Recordings](https://youtube.com/playlist?list=PLmzRWLV1CK_ypvsQu10SGRmhf2S7mbYL5&si=Dgybdd5rLpl3farh)

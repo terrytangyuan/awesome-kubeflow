@@ -3,6 +3,7 @@
 # Awesome Kubeflow
 
 🔔 NEWS:
+* [See you at Kubeflow Summit North America in November 2025 at Atlanta!](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/kubeflow-summit/)
 * [Recordings from Kubeflow Summit Europe 2025 is available](https://youtube.com/playlist?list=PLj6h78yzYM2NiD1QOHcD4PYY-8JxD0pNh&si=qu5lkor74Of8zPbZ)
 * [Kubeflow v1.9 released](https://blog.kubeflow.org/kubeflow-1.9-release/).
 * [Videos from Kubeflow Summit Europe 2024 is available](https://youtube.com/playlist?list=PLj6h78yzYM2Nk-8Zyjaefz9yFJ-NxC-qn&si=y9wvfS_KlOaipPWY).

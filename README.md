@@ -114,12 +114,16 @@ Please check out the [official Kubeflow Project blog](https://blog.kubeflow.org/
 
 Please check out the [official Kubeflow YouTube channel](https://www.youtube.com/@Kubeflow).
 
-### Kubeflow Summit talks playlist
+### Kubeflow Summit Playlist
 
 * [Kubeflow Summit Europe 2025](https://youtube.com/playlist?list=PLj6h78yzYM2NiD1QOHcD4PYY-8JxD0pNh&si=qu5lkor74Of8zPbZ)
 * [Kubeflow Summit Europe 2024](https://youtube.com/playlist?list=PLj6h78yzYM2Nk-8Zyjaefz9yFJ-NxC-qn&si=y9wvfS_KlOaipPWY)
 * [Kubeflow Summit 2023](https://www.youtube.com/watch?v=_UlfF8hb_Ko&list=PL2gwy7BdKoGdrkYIWGeAdKi9ntfxq8FYt&index=1)
 * [Community Meeting Recordings](https://youtube.com/playlist?list=PLmzRWLV1CK_ypvsQu10SGRmhf2S7mbYL5&si=Dgybdd5rLpl3farh)
+
+### Additional Playlists
+
+* [Kubeflow Virtual Symposium 2025](https://youtube.com/playlist?list=PLj6h78yzYM2MCEJPmVgUZsEx7lFjqh8BC&si=jgJlwq17pw-VlkhV)
 
 ### Additional videos
 

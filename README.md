@@ -3,6 +3,7 @@
 # Awesome Kubeflow
 
 🔔 NEWS:
+* [PyTorch on Kubernetes: Kubeflow Trainer Joins the PyTorch Ecosystem](https://pytorch.org/blog/pytorch-on-kubernetes-kubeflow-trainer-joins-the-pytorch-ecosystem/)
 * [See you at Kubeflow Summit North America in November 2025 at Atlanta!](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/kubeflow-summit/)
 * [Recordings from Kubeflow Summit Europe 2025 is available](https://youtube.com/playlist?list=PLj6h78yzYM2NiD1QOHcD4PYY-8JxD0pNh&si=qu5lkor74Of8zPbZ)
 * [Kubeflow v1.9 released](https://blog.kubeflow.org/kubeflow-1.9-release/).
@@ -101,6 +102,7 @@ Please check out the [official Kubeflow Project blog](https://blog.kubeflow.org/
 * [Kubeflow is More Accessible than Ever](https://towardsdatascience.com/kubeflow-is-more-accessible-than-ever-with-minikf-33484d9cb26b)
 * [Operationalize, Scale and Infuse Trust in AI Models using KFServing](https://blog.kubeflow.org/release/official/2021/03/08/kfserving-0.5.html)
 * [Open Source AI at Red Hat: Our Journey in the Kubeflow Community](https://www.redhat.com/en/blog/open-source-ai-red-hat-our-journey-kubeflow-community)
+* [PyTorch on Kubernetes: Kubeflow Trainer Joins the PyTorch Ecosystem](https://pytorch.org/blog/pytorch-on-kubernetes-kubeflow-trainer-joins-the-pytorch-ecosystem/)
 * [Record Metadata on Kubeflow from Notebooks](https://blog.kubeflow.org/jupyter/2020/10/01/lineage.html)
 * [Running Kubeflow at Intuit: Enmeshed in the Service Mesh](https://blog.kubeflow.org/running-kubeflow-at-intuit/)
 * [Scalable and Cloud-Native Hyperparameter Tuning System](https://arxiv.org/abs/2006.02085)

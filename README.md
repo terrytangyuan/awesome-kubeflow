@@ -3,6 +3,7 @@
 # Awesome Kubeflow
 
 🔔 NEWS:
+* [See you at Cloud Native AI + Kubeflow Day in 2026 at Amsterdam!](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/cloud-native-ai-kubeflow-day/)
 * [PyTorch on Kubernetes: Kubeflow Trainer Joins the PyTorch Ecosystem](https://pytorch.org/blog/pytorch-on-kubernetes-kubeflow-trainer-joins-the-pytorch-ecosystem/)
 * [See you at Kubeflow Summit North America in November 2025 at Atlanta!](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/kubeflow-summit/)
 * [Recordings from Kubeflow Summit Europe 2025 is available](https://youtube.com/playlist?list=PLj6h78yzYM2NiD1QOHcD4PYY-8JxD0pNh&si=qu5lkor74Of8zPbZ)

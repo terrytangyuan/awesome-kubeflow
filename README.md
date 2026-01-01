@@ -5,10 +5,7 @@
 🔔 NEWS:
 * [See you at Cloud Native AI + Kubeflow Day in 2026 at Amsterdam!](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/cloud-native-ai-kubeflow-day/)
 * [PyTorch on Kubernetes: Kubeflow Trainer Joins the PyTorch Ecosystem](https://pytorch.org/blog/pytorch-on-kubernetes-kubeflow-trainer-joins-the-pytorch-ecosystem/)
-* [See you at Kubeflow Summit North America in November 2025 at Atlanta!](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/kubeflow-summit/)
-* [Recordings from Kubeflow Summit Europe 2025 is available](https://youtube.com/playlist?list=PLj6h78yzYM2NiD1QOHcD4PYY-8JxD0pNh&si=qu5lkor74Of8zPbZ)
-* [Kubeflow v1.9 released](https://blog.kubeflow.org/kubeflow-1.9-release/).
-* [Videos from Kubeflow Summit Europe 2024 is available](https://youtube.com/playlist?list=PLj6h78yzYM2Nk-8Zyjaefz9yFJ-NxC-qn&si=y9wvfS_KlOaipPWY).
+* [Videos from Kubeflow Summit North America 2025 is available](https://www.youtube.com/playlist?list=PLj6h78yzYM2PeQhNvI6WUOeNUcegvHvf0).
 * [Kubeflow Steering Committee announced](https://blog.kubeflow.org/election/2024/01/31/kubeflow-project-steering-committee-announced.html).
 * The book [Distributed Machine Learning Patterns](https://bit.ly/2RKv8Zo) from Manning Publications (uses Kubeflow) is officially published.
 * [Kubeflow is now an incubating project in CNCF](https://www.cncf.io/blog/2023/07/25/kubeflow-brings-mlops-to-the-cncf-incubator/).
@@ -119,6 +116,7 @@ Please check out the [official Kubeflow YouTube channel](https://www.youtube.com
 
 ### Kubeflow Summit Playlist
 
+* [Kubeflow Summit North America 2025](https://www.youtube.com/playlist?list=PLj6h78yzYM2PeQhNvI6WUOeNUcegvHvf0)
 * [Kubeflow Summit Europe 2025](https://youtube.com/playlist?list=PLj6h78yzYM2NiD1QOHcD4PYY-8JxD0pNh&si=qu5lkor74Of8zPbZ)
 * [Kubeflow Summit Europe 2024](https://youtube.com/playlist?list=PLj6h78yzYM2Nk-8Zyjaefz9yFJ-NxC-qn&si=y9wvfS_KlOaipPWY)
 * [Kubeflow Summit 2023](https://www.youtube.com/watch?v=_UlfF8hb_Ko&list=PL2gwy7BdKoGdrkYIWGeAdKi9ntfxq8FYt&index=1)

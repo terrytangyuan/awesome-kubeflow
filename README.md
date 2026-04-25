@@ -60,6 +60,7 @@ Other open source projects that use or integrate with Kubeflow:
 * [Elyra](https://github.com/elyra-ai/elyra) is a set of AI-centric extensions to JupyterLab Notebooks, that contains a visual pipeline editor.
 * [Pipeline Editor](https://github.com/Cloud-Pipelines/pipeline-editor) web app that allows the users to build and run Machine Learning pipelines using drag and drop. A VSCode extension can be found [here](https://marketplace.visualstudio.com/items?itemName=Cloud-pipelines.pipeline-editor-vscode).
 * [WizStudio](https://wizstudio.litwizlabs.ai) is a web based tool that allows the users to build Kubeflow pipelines using drag and drop interface.
+* [KubeStellar Console](https://github.com/kubestellar/console) is a multi-cluster Kubernetes dashboard with AI/ML workload observability, GPU utilization tracking, and CNCF project integrations including Kubeflow pipeline monitoring.
 <a name="books" />
 
 ## Books
